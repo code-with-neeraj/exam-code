@@ -1,3 +1,5 @@
+// (b) Write a function to insert a number in circular queue. 
+
 #include <stdio.h>
 #define SIZE 5
 

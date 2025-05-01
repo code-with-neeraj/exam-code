@@ -1,3 +1,6 @@
+// (b) Write a program to take student name, roll no. and marks display
+// using structure.
+
 #include <stdio.h>
 #include <string.h>
 

@@ -1,3 +1,6 @@
+// (b) Write a function (using pointer) that compares two integer arrays
+// to see whether they are identical or not. →
+
 #include <stdio.h>
 
 // Function to compare two integer arrays using pointers

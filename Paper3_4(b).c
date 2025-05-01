@@ -1,3 +1,6 @@
+// (b) Write a program to take a number and print factorial of that
+// number. 
+
 #include <stdio.h>
 
 unsigned long long factorial(int n) {

@@ -1,3 +1,6 @@
+// (8) Write the different operations that can be performed on a stack.
+// Give array implementation of a stack. →
+
 #include <stdio.h>
 #include <stdbool.h>
 

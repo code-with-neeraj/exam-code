@@ -1,3 +1,5 @@
+// (6) Explain size of () operator with example. →
+
 #include <stdio.h>
 int main() {
     int num = 10;

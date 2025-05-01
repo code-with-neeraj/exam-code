@@ -1,3 +1,6 @@
+// (b) Write your own function for the following operations, without using
+// library functions: (i) Copy string (ii) Compare two strings →
+
 #include <stdio.h>
 
 // Function to copy source string to destination

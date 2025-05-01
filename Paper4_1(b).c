@@ -1,3 +1,6 @@
+// (b) What is STACK? Write a function using C-language PUSH, POP
+// operation of stack
+
 #include <stdio.h>
 #define MAX 5  
 

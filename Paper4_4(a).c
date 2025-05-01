@@ -1,3 +1,5 @@
+// (4) Write a function to count the nodes of Binary Tree. 
+
 #include <stdio.h>
 #include <stdlib.h>
 

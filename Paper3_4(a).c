@@ -1,3 +1,5 @@
+// (4) Discuss dynamic memory allocation with suitable example
+
 #include <stdio.h>
 #include <stdlib.h>
 int main() {
